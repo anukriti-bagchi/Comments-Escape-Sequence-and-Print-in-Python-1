@@ -11,3 +11,4 @@ print('Hey I am\' a \"good girl\" \nand this viewer is also a good boy/girl')
 
 print("hey", 6, 7, sep="~", end="009\n")
 print("Anukriti Baghchi")
+print("This is an amazing course")
