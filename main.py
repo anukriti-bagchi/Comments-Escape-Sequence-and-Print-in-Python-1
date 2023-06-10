@@ -9,5 +9,5 @@ print('Hey I am\' a \"good girl\" \nand this viewer is also a good boy/girl')
 #print("This is a print statement.")
 #print("Hello World") #printing hello world 
 
-print("hey", 6, 7, sep="~", end="009/n")
-print("Anu")
+print("hey", 6, 7, sep="~", end="009\n")
+print("Anukriti Baghchi")
